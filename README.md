@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   <h1>🧠 Brain Tumor Classification: AI-Powered Analysis 🔬</h1>
   <p><em>Harnessing the power of deep learning for medical diagnosis</em></p>
 </div>
