@@ -11,7 +11,7 @@ A cutting-edge Streamlit application that uses AI to analyze brain MRI scans! Ou
 - 🔵 Meningioma
 - 🟢 Pituitary Tumor
 - ⚪ No Tumor
-
+ 
 ## 🤖 Our Smart Models
  
 ### 1. 🌟 Transfer Learning with Xception (The Powerhouse)
