@@ -4,7 +4,7 @@
 </div>
   
 <div align="left">
-  
+
 ##🎯 Project Overview
 A cutting-edge Streamlit application that uses AI to analyze brain MRI scans! Our system can detect and classify four types of conditions:
 - 🔴 Glioma
